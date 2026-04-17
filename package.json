@@ -1,0 +1,12 @@
+{
+  "name": "alt-uses-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "openai": "^4.57.0"
+  }
+}
